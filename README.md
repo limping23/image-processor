@@ -3,6 +3,7 @@
 ## Description
 
 Console app for changing BMP images
+
 Reads an input file, applies filters, and writes the result into an output file
 
 ## Usage
